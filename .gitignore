@@ -1,0 +1,18 @@
+# Backend
+backend/.env
+backend/embeddings_cache.pkl
+backend/__pycache__/
+backend/*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
